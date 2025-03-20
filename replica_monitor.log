@@ -1,0 +1,62 @@
+2025-03-20 12:07:47,268 - ERROR - Replica creation failed: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 12:07:47,269 - ERROR - Comparison failed: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+2025-03-20 12:13:53,715 - ERROR - Replica creation failed: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:14:03,732 - ERROR - Comparison failed: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+2025-03-20 12:52:25,482 - ERROR - Replica creation failed: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:52:35,522 - ERROR - Comparison failed: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:54:54,057 - ERROR - Replica creation failed: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 12:54:54,057 - ERROR - Comparison failed: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/racheal/infra/replica.py': [Errno 2] No such file or directory

@@ -1,0 +1,213 @@
+2025-03-19 14:28:50,238 - Database down: invalid dsn: invalid connection option "DB_NAME"
+
+2025-03-19 14:28:50,239 - Failed to send email: 'GMAIL_RECEPIENT'
+2025-03-19 14:28:50,239 - Database is down!
+2025-03-19 14:34:10,854 - Database down: invalid dsn: invalid connection option "DB_NAME"
+
+2025-03-19 14:34:10,859 - Failed to send email: 'GMAIL_RECEPIENT'
+2025-03-19 14:34:10,859 - Database is down!
+2025-03-19 14:39:31,203 - Database down: invalid dsn: invalid connection option "DB_NAME"
+
+2025-03-19 14:39:31,203 - Failed to send email: 'GMAIL_RECEPIENT'
+2025-03-19 14:39:31,203 - Database is down!
+2025-03-19 14:44:53,845 - Database down: invalid dsn: invalid connection option "DB_NAME"
+
+2025-03-19 14:44:53,846 - Failed to send email: 'GMAIL_RECEPIENT'
+2025-03-19 14:44:53,846 - Database is down!
+2025-03-19 14:50:15,187 - Database down: invalid dsn: invalid connection option "DB_NAME"
+
+2025-03-19 14:50:15,188 - Failed to send email: 'GMAIL_RECEPIENT'
+2025-03-19 14:50:15,188 - Database is down!
+2025-03-19 14:55:37,746 - Database down: invalid dsn: invalid connection option "DB_NAME"
+
+2025-03-19 14:55:37,749 - Failed to send email: 'GMAIL_RECEPIENT'
+2025-03-19 14:55:37,750 - Database is down!
+"DATABASE_URL": os.getenv("DATABASE_URL"),exit
+2025-03-20 12:12:02,244 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:12:04,240 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f864d4sm42818845e9.37 - gsmtp')
+2025-03-20 12:12:04,240 - WARNING - Database is down!
+2025-03-20 12:13:10,964 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:13:12,713 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f74d9bsm42033945e9.32 - gsmtp')
+2025-03-20 12:13:12,714 - WARNING - Database is down!
+2025-03-20 12:18:50,256 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:18:53,147 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c8881187sm22857018f8f.41 - gsmtp')
+2025-03-20 12:18:53,147 - WARNING - Database is down!
+2025-03-20 12:24:27,587 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:24:29,989 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c83b6e87sm23944975f8f.32 - gsmtp')
+2025-03-20 12:24:29,989 - WARNING - Database is down!
+2025-03-20 12:30:06,874 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:30:09,321 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3997656f43asm3343898f8f.25 - gsmtp')
+2025-03-20 12:30:09,322 - WARNING - Database is down!
+2025-03-20 12:35:32,903 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:35:34,849 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-399728f493csm4792099f8f.67 - gsmtp')
+2025-03-20 12:35:34,849 - WARNING - Database is down!
+2025-03-20 12:41:01,666 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:41:03,767 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395cb7ea197sm22908742f8f.84 - gsmtp')
+2025-03-20 12:41:03,768 - WARNING - Database is down!
+2025-03-20 12:46:28,979 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:46:31,087 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d4863b4a7sm27471745e9.8 - gsmtp')
+2025-03-20 12:46:31,088 - WARNING - Database is down!
+2025-03-20 12:51:47,753 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:51:49,602 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c4f9d59dsm23371183f8f.0 - gsmtp')
+2025-03-20 12:51:49,603 - WARNING - Database is down!
+2025-03-20 12:54:14,020 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:54:15,976 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f58a66sm43155445e9.20 - gsmtp')
+2025-03-20 12:54:15,977 - WARNING - Database is down!
+2025-03-20 12:54:37,044 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 12:54:38,875 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f331dasm43763235e9.8 - gsmtp')
+2025-03-20 12:54:38,875 - WARNING - Database is down!
+2025-03-20 12:58:46,780 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 12:58:48,716 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c83b6e92sm23663836f8f.38 - gsmtp')
+2025-03-20 12:58:48,716 - WARNING - Database is down!
+2025-03-20 12:59:49,094 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 12:59:51,359 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c82c255bsm22864392f8f.23 - gsmtp')
+2025-03-20 12:59:51,359 - WARNING - Database is down!
+2025-03-20 13:04:11,281 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 13:04:13,226 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c83b748bsm23667708f8f.39 - gsmtp')
+2025-03-20 13:04:13,226 - WARNING - Database is down!
+2025-03-20 13:05:23,691 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 13:05:25,521 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f56807sm43557265e9.18 - gsmtp')
+2025-03-20 13:05:25,521 - WARNING - Database is down!
+2025-03-20 13:09:33,258 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 13:09:35,162 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c8975b90sm23794669f8f.53 - gsmtp')
+2025-03-20 13:09:35,162 - WARNING - Database is down!
+2025-03-20 13:10:55,569 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 13:10:57,308 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395cb7eb8c2sm22850194f8f.85 - gsmtp')
+2025-03-20 13:10:57,309 - WARNING - Database is down!
+2025-03-20 13:14:55,101 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 13:14:57,451 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f58ab6sm43730795e9.23 - gsmtp')
+2025-03-20 13:14:57,452 - WARNING - Database is down!
+2025-03-20 13:16:29,423 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 13:16:31,427 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c8881187sm22990108f8f.41 - gsmtp')
+2025-03-20 13:16:31,427 - WARNING - Database is down!
+2025-03-20 13:20:19,963 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 13:20:21,939 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f37847sm44578295e9.5 - gsmtp')
+2025-03-20 13:20:21,939 - WARNING - Database is down!
+2025-03-20 13:22:04,255 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 13:22:06,530 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43fdeba1sm43820385e9.32 - gsmtp')
+2025-03-20 13:22:06,530 - WARNING - Database is down!
+2025-03-20 13:25:41,139 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 13:25:43,141 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f8679bsm44780355e9.40 - gsmtp')
+2025-03-20 13:25:43,141 - WARNING - Database is down!
+2025-03-20 13:27:34,880 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 13:27:37,015 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d3bb2b2ffsm56408175e9.1 - gsmtp')
+2025-03-20 13:27:37,015 - WARNING - Database is down!
+2025-03-20 13:31:01,094 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 13:31:03,149 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43fdeb6esm44162575e9.31 - gsmtp')
+2025-03-20 13:31:03,149 - WARNING - Database is down!
+2025-03-20 13:33:07,883 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 13:33:09,987 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43fdac92sm44463395e9.26 - gsmtp')
+2025-03-20 13:33:09,987 - WARNING - Database is down!
+2025-03-20 13:36:25,230 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 13:36:27,118 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f43e50sm43935525e9.12 - gsmtp')
+2025-03-20 13:36:27,118 - WARNING - Database is down!
+2025-03-20 13:38:42,572 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 13:38:44,603 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43d803f6sm45433715e9.0 - gsmtp')
+2025-03-20 13:38:44,603 - WARNING - Database is down!
+2025-03-20 14:02:01,989 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:02:04,342 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395cb40fa30sm23675130f8f.68 - gsmtp')
+2025-03-20 14:02:04,342 - WARNING - Database is down!
+2025-03-20 14:04:27,009 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 14:04:28,880 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395cb7eb876sm23354322f8f.83 - gsmtp')
+2025-03-20 14:04:28,881 - WARNING - Database is down!
+2025-03-20 14:07:20,624 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:07:22,315 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f8679bsm45896975e9.40 - gsmtp')
+2025-03-20 14:07:22,316 - WARNING - Database is down!
+2025-03-20 14:09:56,661 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 14:10:00,704 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3996d998545sm7423148f8f.34 - gsmtp')
+2025-03-20 14:10:00,704 - WARNING - Database is down!
+2025-03-20 14:12:42,622 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:12:44,425 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-39971b56299sm5630288f8f.98 - gsmtp')
+2025-03-20 14:12:44,425 - WARNING - Database is down!
+2025-03-20 14:15:31,457 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 14:15:33,553 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f332cfsm45872635e9.6 - gsmtp')
+2025-03-20 14:15:33,553 - WARNING - Database is down!
+2025-03-20 14:16:04,319 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:16:05,997 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f864d4sm46006145e9.37 - gsmtp')
+2025-03-20 14:16:05,998 - WARNING - Database is down!
+2025-03-20 14:21:07,819 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 14:21:09,701 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f43cbasm45276565e9.9 - gsmtp')
+2025-03-20 14:21:09,702 - WARNING - Database is down!
+2025-03-20 14:21:28,063 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:21:32,327 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f378a1sm46674015e9.3 - gsmtp')
+2025-03-20 14:21:32,327 - WARNING - Database is down!
+2025-03-20 14:26:43,321 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 14:26:45,275 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395cb40fa30sm23733673f8f.68 - gsmtp')
+2025-03-20 14:26:45,275 - WARNING - Database is down!
+2025-03-20 14:26:53,362 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:26:55,014 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c82c255bsm23068244f8f.23 - gsmtp')
+2025-03-20 14:26:55,014 - WARNING - Database is down!
+2025-03-20 14:32:11,643 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:32:12,006 - ERROR - Database down: could not translate host name "your_database_host" to address: Temporary failure in name resolution
+
+2025-03-20 14:32:13,547 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f55750sm46601675e9.21 - gsmtp')
+2025-03-20 14:32:13,547 - WARNING - Database is down!
+2025-03-20 14:32:13,730 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f58a66sm45684335e9.20 - gsmtp')
+2025-03-20 14:32:13,730 - WARNING - Database is down!
+2025-03-20 14:37:33,742 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:37:35,579 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c8975f33sm24108946f8f.58 - gsmtp')
+2025-03-20 14:37:35,580 - WARNING - Database is down!
+2025-03-20 14:42:58,869 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:43:00,528 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f87f5bsm46052995e9.39 - gsmtp')
+2025-03-20 14:43:00,529 - WARNING - Database is down!
+2025-03-20 14:49:21,550 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:49:23,242 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d43f33242sm46412695e9.5 - gsmtp')
+2025-03-20 14:49:23,242 - WARNING - Database is down!
+2025-03-20 14:54:40,264 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 14:54:42,108 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d46edba08sm37502425e9.18 - gsmtp')
+2025-03-20 14:54:42,108 - WARNING - Database is down!
+2025-03-20 15:00:00,217 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 15:00:02,095 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395cb7ebe3csm24018016f8f.99 - gsmtp')
+2025-03-20 15:00:02,095 - WARNING - Database is down!
+2025-03-20 15:05:22,599 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 15:05:24,435 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d4870ee71sm30187655e9.30 - gsmtp')
+2025-03-20 15:05:24,435 - WARNING - Database is down!
+2025-03-20 15:10:46,235 - ERROR - Database down: invalid integer value "5432  # Default PostgreSQL port" for connection option "port"
+
+2025-03-20 15:10:47,984 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-395c83b6a27sm23900458f8f.31 - gsmtp')
+2025-03-20 15:10:47,984 - WARNING - Database is down!
